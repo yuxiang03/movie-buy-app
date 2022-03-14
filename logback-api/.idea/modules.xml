@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/file-io-api/file-io-api.iml" filepath="$PROJECT_DIR$/file-io-api/file-io-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../movie-buy-app/movie-buy-app.iml" filepath="$PROJECT_DIR$/../movie-buy-app/movie-buy-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../thread-app/thread-app.iml" filepath="$PROJECT_DIR$/../thread-app/thread-app.iml" />
+    </modules>
+  </component>
+</project>
